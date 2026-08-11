@@ -14,7 +14,7 @@ I'm a **Data Science graduate** with a passion for turning data into meaningful 
 
 ## Featured Projects
 
-* [Malaysia Tourism Demand Forecasting](#) — Forecasting Malaysian tourism demand using time-series and machine-learning models, incorporating tourism and weather data.
+* [Malaysia Tourism Demand Forecasting](#) — Forecasting Malaysian tourism demand using time-series and machine-learning models, incorporating tourism and weather data. https://github.com/vwl1801/Tourism-Demand-Forecasting-and-Trend-Analysis-in-Malaysia.git
 * [Data Mining & Classification](#) — Comparative analysis of Logistic Regression, SVM, Random Forest and DistilBERT models for classification tasks.
 * [Malaysia Used Car Market Analysis](#) — Exploring vehicle pricing, mileage, brand and market trends through data analysis and visualization.
 * [Tourism Analytics Dashboard](#) — Interactive Streamlit dashboard for exploring tourism trends, model performance and forecasting results.
